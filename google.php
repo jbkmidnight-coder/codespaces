@@ -54,8 +54,8 @@
     </body>
     <style>
         body {
-            background: #202124;
-            color: #fff;
+            background: #910c0cff;
+            color: #470303ff;
             font-family: "Host Grotesk", sans-serif;
             margin: 0;
             font-size: 16px;

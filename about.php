@@ -15,19 +15,19 @@
             <a href="/"><img src="/assets/codespaces.png" /></a>
             <div class="about__container">
                 <div class="about__left">
-                    <img src="/assets/default.jpg" />
+                    <img src="/assets/IMG_7506.jpeg" />
                 </div>
                 <div class="about__right">
                     <h1>About Me</h1>
-                    <h3 class="about-name">My Name</h3>
-                    <p>Welcome to my about page! Here you can find more information about my background, skills, and interests.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut sem eu libero finibus scelerisque a vel nulla. Donec venenatis magna justo, at fringilla sapien convallis in. Suspendisse dapibus est sit amet mollis gravida. Aliquam vulputate purus id magna semper elementum. Praesent at faucibus quam, eget convallis risus. In eget magna semper nunc blandit elementum eget sed tellus. Sed a pulvinar sapien. Aenean vulputate enim vel finibus scelerisque. Vivamus vestibulum, risus non scelerisque hendrerit, diam magna efficitur dui, in rhoncus lorem arcu sed quam. Donec viverra arcu vel dapibus condimentum. Sed mattis placerat nulla, sit amet malesuada nisi molestie a. Nulla malesuada euismod massa id scelerisque. Morbi nec lectus ligula. Mauris sed sapien quis eros aliquet fringilla id ut felis. Sed eget condimentum leo. Morbi congue sapien eget iaculis pellentesque.</p>
-                    <p>Curabitur pellentesque pellentesque arcu, ac suscipit risus maximus at. Ut sed leo sit amet ante laoreet finibus non et neque. Nam ornare orci nisl, vel sagittis turpis laoreet eget. Nulla bibendum nunc vitae metus posuere, sit amet varius purus porttitor. Pellentesque dapibus dolor in feugiat suscipit. Donec commodo mattis tellus sed imperdiet. Maecenas a tempus ex. Donec aliquet lacus sed metus pellentesque tincidunt. Duis fringilla urna tortor, nec vulputate lacus facilisis sit amet. Mauris quis dui vitae arcu pulvinar elementum. Morbi sit amet nisl sit amet leo gravida elementum sed sit amet odio. Nulla facilisi. Quisque fringilla ornare nunc, vel volutpat erat ultricies non. Suspendisse posuere, tellus id volutpat facilisis, urna odio mollis nisi, quis rhoncus est ex ac lectus. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+                    <h3 class="about-name">John.B.Kelley</h3>
+                    <p>Hello!! On this page I am going to tell you a little about myself.</p>
+                    <p>My name is John Benjamin Kelley and i live in virginia. I just turned 18 years old on the 19th of september. some of the things i like to do is fish, hunt deer, dove and squirrelS. Another thing i like to do is build stuff like Legos and model cars. I like to liston to music while i do pretty much everything. some of my favorite artists are NF, Forrest Frank, and Tobby Mac.</p>
+                    <p>My favorite song right now is Riptide by Vance Joy. I am currently in my last year of highschool. After i finish highschool i plan on going to Wytheville community College for their two year Electricians program but God may change my plans like He has before and i've just got to trust Him. He's got a plan for my life He's got someone out there for me He's got the right job for me. Jeremiah 29:11 says "For I know the plans I have for you,"declarers the Lord,"Plans to prosper you and not harm you,plans to give you hope and a future.".</p>
                     <div class="about__socials"><?php
 
                         // Set socials.
                         $socials = [
-                            'instagram' => 'https://www.instagram.com',
+                            'instagram' => 'https://www.instagram.com/johnboy952855/',
                             'snapchat'  => 'https://www.snapchat.com',
                             'facebook'  => 'https://www.facebook.com',
                             'imessage'  => 'tel:1231231234'
