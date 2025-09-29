@@ -28,7 +28,7 @@
                         // Set socials.
                         $socials = [
                             'instagram' => 'https://www.instagram.com/johnboy952855/',
-                            'facebook'  => 'https://www.facebook.com/johnboy952855/',
+                            'facebook'  => 'https://www.facebook.com/profile.php?id=100087872299878/',
 
                         ]; // Loop.
                         foreach( $socials as $social_id => $social_url ) {
