@@ -15,7 +15,7 @@
             <a href="/"><img src="/assets/codespaces.png" /></a>
             <div class="about__container">
                 <div class="about__left">
-                    <img src="/assets/IMG_7506.jpeg" />
+                    <img src="/assets/IMG_7506.jpg" />
                 </div>
                 <div class="about__right">
                     <h1>About Me</h1>
@@ -28,12 +28,9 @@
                         // Set socials.
                         $socials = [
                             'instagram' => 'https://www.instagram.com/johnboy952855/',
-                            'snapchat'  => 'https://www.snapchat.com',
-                            'facebook'  => 'https://www.facebook.com',
-                            'imessage'  => 'tel:1231231234'
-                        ];
+                            'facebook'  => 'https://www.facebook.com/johnboy952855/',
 
-                        // Loop.
+                        ]; // Loop.
                         foreach( $socials as $social_id => $social_url ) {
 
                             // Output. ?>
