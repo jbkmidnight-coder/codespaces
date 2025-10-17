@@ -4,3 +4,19 @@ body,
     color: crimson;
     background:  #0f0f0f;
 }
+
+#header {
+    display: grid;
+    grid: auto-flow dense / 1fr 1fr 1fr;
+}
+
+#Logo {
+    height: 56px;
+}
+
+.header-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
