@@ -10,13 +10,32 @@ body,
     grid: auto-flow dense / 1fr 1fr 1fr;
 }
 
-#Logo {
-    height: 56px;
+button#Hamburger {
+    background: none;
+    border: none;
+    padding: 5px;
+    border-radius: 100%;
+}
+button#Hamburger svg {
+    width: 24px;
+    height: 24px;
+}
+button#Hamburger svg path {
+    fill: #fff;
+}
+#logo {
+    height: 20px;
 }
 
-.header-center {
+.header-left,
+.header-center,
+.header-right {
     display: flex;
     align-items: center;
+}
+.header-center {
     justify-content: center;
-
+}
+.header-right {
+    justify-content: flex-end;
 }
