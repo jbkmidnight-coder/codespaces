@@ -1,8 +1,8 @@
 /* youtube.css */
 body,
 #header {
-    color: crimson;
-    background:  #0f0f0f;
+    color: rgb(15, 7, 255);
+    background:  #070707;
 }
 
 #header {
@@ -15,13 +15,25 @@ button#Hamburger {
     border: none;
     padding: 5px;
     border-radius: 100%;
+    margin-right: 15px;
+    width: 38px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
+button#Hamburger:hover {
+    background: #272727;
+    cursor: pointer;
+}
+
 button#Hamburger svg {
     width: 24px;
     height: 24px;
 }
 button#Hamburger svg path {
-    fill: #fff;
+    fill: #ffffff;
 }
 #logo {
     height: 20px;
@@ -38,4 +50,20 @@ button#Hamburger svg path {
 }
 .header-right {
     justify-content: flex-end;
+}
+
+form#search  {
+    background: #121212;
+    border: 1px solid #ffffff20;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+form#search input[type=text] {
+    padding: 10px;
+    min-width: 250px;
+}
+
+form#search input[type=submit] {
+    padding: 10px;
 }

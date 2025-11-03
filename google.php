@@ -54,8 +54,8 @@
     </body>
     <style>
         body {
-            background: #910c0cff;
-            color: #470303ff;
+            background: #0e0e0eff;
+            color: #16ee0eff;
             font-family: "Host Grotesk", sans-serif;
             margin: 0;
             font-size: 16px;
@@ -73,7 +73,7 @@
         }
         a {
             text-decoration: none;
-            color: #fff;
+            color: #dd0606ff;
         }
         div#header .header-column {
             display: flex;
